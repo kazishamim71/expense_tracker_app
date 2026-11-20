@@ -92,7 +92,7 @@ class _SplashScreenState extends State<SplashScreen>
                 ),
                 const SizedBox(height: 8),
                 Text(
-                  'Track every penny',
+                  'Track every expense',
                   style: TextStyle(
                     color: scheme.onPrimary.withValues(alpha: 0.8),
                     fontSize: 14,
